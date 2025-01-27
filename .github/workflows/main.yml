@@ -26,7 +26,7 @@ jobs:
           python-version: ${{ env.PYTHON_VERSION }}
       - name: Install and Build 🔧
         run: |
-            pip install .
+            pip install git+https://gitlab.com/da_doomer/markdown-slides.git
             mdslides presentation.md --include media
             mv presentation public
       - name: Deploy 🚀
