@@ -25,7 +25,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
             pip install .
-            mdslides example/presentation.md --include example/media
+            mdslides presentation.md --include media
             mv presentation public
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
