@@ -21,9 +21,9 @@
 [comment]: # (respondToHashChanges: false)
 [comment]: # (Other settings are documented at https://revealjs.com/config/)
 
-John Doe | College University | July 3, 2020
+人工智慧、資料、權利
 
-# Great Title
+# AI, Data, and Rights
 
 [comment]: # (A comment starting with three or more !!! marks a slide break.)
 [comment]: # (!!!)
