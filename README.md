@@ -7,5 +7,6 @@ AI, Data, and Rights
 ```
 # local dev
 mdslides ./presentation.md --include media
+cp theme/black-ish.css presentation/dist/theme/
 open ./presentation/index.html
 ```

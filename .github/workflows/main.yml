@@ -31,6 +31,7 @@ jobs:
         run: |
             pip install git+https://gitlab.com/da_doomer/markdown-slides.git
             mdslides presentation.md --include media
+            cp theme/black-ish.css presentation/dist/theme/
             mv presentation public
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
