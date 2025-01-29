@@ -62,16 +62,16 @@ Glossary 名詞解釋
 
 機器學習之迭代
 
-## Iteration of Machine Learning (ML)
+## Iteration of ML
 
+| | Stage | Stakeholder |
+| ---: | :--- | :--- |
+| 1️⃣ | Train | AI service provider, Content creator |
+| 2️⃣ | Evaluate | AI service provider |
+| 3️⃣ | Deploy | AI service provider, End user |
+
+Note:
 `Text` / `Image` / `Video`
-
-| Stage | Stakeholder |
-| :--- | :--- |
-| 1️⃣ Train | AI service provider, Content creator |
-| 2️⃣ Evaluate | AI service provider |
-| 3️⃣ Deploy | AI service provider, End user |
-
 - AI service provider: Stability AI / Github / OpenAI
 - End user: including content creator
 
@@ -87,21 +87,31 @@ Glossary 名詞解釋
 
 [comment]: # (|||)
 
-### ChatGPT
+### [ChatGPT](https://chatgpt.com/) / [Claude](https://claude.ai) / [Llama](https://www.llama.com) / [Gemini](https://gemini.google.com/)
+
+Text
+
+[Duck.ai](https://duck.ai)
 
 [comment]: # (|||)
 
-### [Stable Diffusion (Version 2)](https://github.com/Stability-AI/generative-models)
+### [Stable Diffusion](https://stablediffusionweb.com) / [Midjourney](https://www.midjourney.com)
 
 Text to image
 
 ![h:50%](https://raw.githubusercontent.com/Stability-AI/stablediffusion/main/assets/stable-samples/txt2img/768/merged-0002.png)
 
+[Stable Diffusion Version 2 (2022.11)](https://github.com/Stability-AI/generative-models)<!-- .element: style="font-size: 0.5em"> -->
+
 [comment]: # (|||)
 
-### (TBD)
+### [DeepBrain AI](https://www.aistudios.com/features/ai-video-generator)
 
 Text to video
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tnswuwveYiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Virtual news sample (2023.11)](https://youtu.be/tnswuwveYiQ)<!-- .element: style="font-size: 0.5em"> -->
 
 [comment]: # (|||)
 
@@ -124,6 +134,11 @@ Text to video
 
 ## Data
 
+[Data is the new air (2018.05)](https://www.csoonline.com/article/565480/data-is-the-new-air.html)
+
+> Data is not the new “oil” anymore. Data is the new “air.” It has become more than economic fuel; it is a catalyst of innovation, of disruption, and of possibilities. However, it’s never a guarantee that all innovations, disruptions and possibilities will be positive ones.
+
+Note:
 * role in AI era: air supply (along with computing power)
 * personal data: def
 
@@ -156,9 +171,13 @@ Text to video
 
 ### 民法 §195
 
-> I. 不法侵害他人之身體、健康、名譽、自由、信用、隱私、貞操，或不法侵害其他人格法益而情節重大者，被害人雖非財產上之損害，亦得請求賠償相當之金額。其名譽被侵害者，並得請求回復名譽之適當處分。
-> II. 前項請求權，不得讓與或繼承。但以金額賠償之請求權已依契約承諾，或已起訴者，不在此限。
-> III. 前二項規定，於不法侵害他人基於父、母、子、女或配偶關係之身分法益而情節重大者，準用之。
+```
+I. 不法侵害他人之身體、健康、名譽、自由、信用、隱私、貞操，或不法侵害其他人格法益而情節重大者，被害人雖非財產上之損害，亦得請求賠償相當之金額。其名譽被侵害者，並得請求回復名譽之適當處分。
+II. 前項請求權，不得讓與或繼承。但以金額賠償之請求權已依契約承諾，或已起訴者，不在此限。
+III. 前二項規定，於不法侵害他人基於父、母、子、女或配偶關係之身分法益而情節重大者，準用之。
+```
+
+[comment]: # (|||)
 
 ### 刑法
 
