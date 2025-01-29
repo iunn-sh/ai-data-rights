@@ -22,8 +22,7 @@
 
 # AI . Data . Rights
 
-[comment]: # (A comment starting with three or more !!! marks a slide break.)
-[comment]: # (!!!)
+[comment]: # (|||)
 
 ## 主題 Outline
 
@@ -31,6 +30,7 @@
 2. Data (Protection) 資料（保護）
 3. Fundamental Rights （基本）權利
 
+[comment]: # (A comment starting with three or more !!! marks a slide break.)
 [comment]: # (!!!)
 
 人工智慧
@@ -55,6 +55,8 @@ Glossary 名詞解釋
 歷史小教室
 
 ## Brief Histroy
+
+(TBD)
 
 [comment]: # (|||)
 
@@ -118,20 +120,24 @@ Text to video
 
 # Data (Protection)
 
-- AI 人工智慧
-- Machine Learning (ML) 機器學習
-- Deep Learning (DL) 深度學習
-- Generative AI (GenAI) 生成式AI
-- Large Language Model (LLM) 大型語言模型
-- Natural Language Processing (NLP) 自然語言處理
-
 [comment]: # (|||)
 
 ## Data
 
 * role in AI era: air supply (along with computing power)
 * personal data: def
-* infosec
+
+[comment]: # (|||)
+
+巨量資料
+
+## Big Data
+
+[comment]: # (|||)
+
+資訊安全
+
+## Information Security
 
 [comment]: # (!!!)
 
@@ -145,6 +151,32 @@ Text to video
 
 * def
 * example
+
+[comment]: # (|||)
+
+### 民法 §195
+
+> I. 不法侵害他人之身體、健康、名譽、自由、信用、隱私、貞操，或不法侵害其他人格法益而情節重大者，被害人雖非財產上之損害，亦得請求賠償相當之金額。其名譽被侵害者，並得請求回復名譽之適當處分。
+> II. 前項請求權，不得讓與或繼承。但以金額賠償之請求權已依契約承諾，或已起訴者，不在此限。
+> III. 前二項規定，於不法侵害他人基於父、母、子、女或配偶關係之身分法益而情節重大者，準用之。
+
+### 刑法
+
+- 生命
+- 身體
+- 自由
+- 名譽/信用
+- 隱私/祕密
+- 財產
+
+[comment]: # (|||)
+
+### 憲法
+
+- 平等權（第7條）
+- 自由權：(1)人身自由（第8、9條）(2)居住遷徙自由（第10條）(3)意見自由（第11條）(4)秘密通訊自由（第12條）(5)信仰自由（第13條）(6)集會結社自由（第14條）
+- 受益權：(1)經濟上受益權（第15條）(2)行政上受益權（第16條）(3)司法上受益權（第16條）(4)教育上受益權（第21條）。
+- 其他權利（第22條）
 
 [comment]: # (|||)
 
