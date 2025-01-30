@@ -22,7 +22,10 @@
 
 # AI . Data . Rights
 
-[comment]: # (|||)
+Note:
+[Photo by Warren](https://unsplash.com/@wflwong) on [Unsplash](https://unsplash.com/photos/person-using-phone-leaning-on-wall-in-silhouette-photography-4l-e7U6c5ek)
+
+[comment]: # (||| data-background-image="https://images.unsplash.com/photo-1492045379936-abb525f8dacb" data-background-opacity="0.5")
 
 ## Outline 主題
 
@@ -199,7 +202,7 @@ Note:
 
 ### 保護手段（例）
 
-<!-- .slide: style="font-size: 0.9em"> -->
+<!-- .element: style="font-size: 0.9em"> -->
 - Security update 安全性更新
 - Minimum disclosure 最小揭露
 - Separate data set 區分資料集
@@ -236,7 +239,9 @@ Note:
 ### 民法 §195
 
 > I. 不法侵害他人之身體、健康、名譽、自由、信用、隱私、貞操，或不法侵害其他人格法益而情節重大者，被害人雖非財產上之損害，亦得請求賠償相當之金額。其名譽被侵害者，並得請求回復名譽之適當處分。
+
 > II. 前項請求權，不得讓與或繼承。但以金額賠償之請求權已依契約承諾，或已起訴者，不在此限。
+
 > III. 前二項規定，於不法侵害他人基於父、母、子、女或配偶關係之身分法益而情節重大者，準用之。
 
 [comment]: # (|||)
@@ -262,6 +267,17 @@ Note:
 [comment]: # (|||)
 
 ## Privacy 隱私
+
+[comment]: # (!!!)
+
+以上
+
+# Powered By
+
+|           |                                                                                       |
+| --------: | :------------------------------------------------------------------------------------ |
+| Github    | [iunn-sh/ai-data-rights](https://github.com/iunn-sh/ai-data-rights) 					|
+| Reveal.js | [da_doomer/markdown-slides](https://gitlab.com/da_doomer/markdown-slides)				| 
 
 [comment]: # (!!!)
 
