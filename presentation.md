@@ -24,9 +24,9 @@
 
 [comment]: # (|||)
 
-## 主題 Outline
+## Outline 主題
 
-1. Artificail Intelligence / AI 人工智慧
+1. Artificial Intelligence / AI 人工智慧
 2. Data (Protection) 資料（保護）
 3. Fundamental Rights （基本）權利
 
@@ -37,11 +37,13 @@
 
 # AI
 
-Glossary 名詞解釋
-
 [comment]: # (|||)
 
-[Introduction to AI, ML, DL, Generative AI and NLP and the relationship between them (with a focus on GenAI)](https://medium.com/@amitadhiman3001/introduction-to-ai-ml-dl-generative-ai-and-nlp-and-the-relationship-between-them-with-a-focus-c21ff10bbfad) <!-- .slide: style="float: left; width: 50%; font-size: 0.75em"> -->
+名詞解釋
+
+## Glossary 名詞解釋
+
+[Introduction to AI, ML, DL, Generative AI and NLP and the relationship between them (with a focus on GenAI)](https://medium.com/@amitadhiman3001/introduction-to-ai-ml-dl-generative-ai-and-nlp-and-the-relationship-between-them-with-a-focus-c21ff10bbfad) <!-- .slide: style="float: left; width: 50%; font-size: 0.7em"> -->
 
 - AI 人工智慧
 - Machine Learning (ML) 機器學習
@@ -50,40 +52,38 @@ Glossary 名詞解釋
 - Large Language Model (LLM) 大型語言模型
 - Natural Language Processing (NLP) 自然語言處理
 
-[comment]: # (||| data-background-image="https://miro.medium.com/v2/resize:fit:786/format:webp/1*cFPZMybA6mQfyrfvOjeifQ.png" data-background-size="45% auto" data-background-position="right" class="p")
+[comment]: # (||| data-background-image="https://miro.medium.com/v2/resize:fit:786/format:webp/1*cFPZMybA6mQfyrfvOjeifQ.png" data-background-size="45% auto" data-background-position="right")
 
-歷史小教室
+## Brief Histroy 歷史小教室
 
-## Brief Histroy
+[The History of AI: A Timeline of AI (2024.10)](https://www.coursera.org/articles/history-of-ai) <!-- .slide: style="font-size: 0.85em"> -->
 
-(TBD)
-
-[comment]: # (|||)
-
-機器學習之迭代
-
-## Iteration of ML
-
-| | Stage | Stakeholder |
-| ---: | :--- | :--- |
-| 1️⃣ | Train | AI service provider, Content creator |
-| 2️⃣ | Evaluate | AI service provider |
-| 3️⃣ | Deploy | AI service provider, End user |
-
-Note:
-`Text` / `Image` / `Video`
-- AI service provider: Stability AI / Github / OpenAI
-- End user: including content creator
+| | |
+| :--- | :--- |
+| `1950s` | Alan Turing: the Turing test |
+| `1960s` - `1970s` | ELIZA: 1st chatbot |
+| `1980s` - `1990s` | Deep Blue: chess-playing program |
+| `2000` - `2015` | Siri / Alexa: virtual assistant + NLP |
+| `2016` - `2019` | AlphaGO: Go-playing program |
+| `2020` - | ChatGPT-3: GenAI |
 
 [comment]: # (|||)
 
-生成式AI
+## ML 101 機器學習概論
 
-## Generative AI
+[What Are Machine Learning Frameworks and How to Pick the Best One (2021.08)](https://www.phdata.io/blog/how-to-pick-the-best-ml-framework/) <!-- .slide: style="float: left; width: 50%; font-size: 0.7em"> -->
+
+1. Train 訓練
+2. Evaluate 評估
+3. Deploy 佈署
+
+[comment]: # (||| data-background-image="https://i0.wp.com/www.phdata.io/wp-content/uploads/2021/08/ML-Life-Cycle-for-MLOps-blog.png" data-background-size="45% auto" data-background-position="right")
+
+## Generative AI 生成式AI
 
 ![h:50%](https://learnopencv.com/wp-content/uploads/2020/10/gen_disc_model-1.jpg)
 
-[Generative and Discriminative Models](https://learnopencv.com/generative-and-discriminative-models/)<!-- .element: style="font-size: 0.5em"> -->
+[Generative and Discriminative Models](https://learnopencv.com/generative-and-discriminative-models/) <!-- .element: style="font-size: 0.5em"> -->
 
 [comment]: # (|||)
 
@@ -101,7 +101,7 @@ Text to image
 
 ![h:50%](https://raw.githubusercontent.com/Stability-AI/stablediffusion/main/assets/stable-samples/txt2img/768/merged-0002.png)
 
-[Stable Diffusion Version 2 (2022.11)](https://github.com/Stability-AI/generative-models)<!-- .element: style="font-size: 0.5em"> -->
+[Stable Diffusion Version 2 (2022.11)](https://github.com/Stability-AI/generative-models) <!-- .element: style="font-size: 0.5em"> -->
 
 [comment]: # (|||)
 
@@ -111,18 +111,19 @@ Text to video
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tnswuwveYiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Virtual news sample (2023.11)](https://youtu.be/tnswuwveYiQ)<!-- .element: style="font-size: 0.5em"> -->
+[Virtual news sample (2023.11)](https://youtu.be/tnswuwveYiQ) <!-- .element: style="font-size: 0.5em"> -->
 
 [comment]: # (|||)
 
-緊張關係
+### 5 Must-knows to Get Started with GenAI
 
-## Tension
+[Watch this before using generative AI (2023.11)](https://youtu.be/unPKJJjQP0A)
 
-(Why) is Generative AI the breaking change?
-- Killer application: potential profitability
-- Permission for human to view vs. for robot to crawl
-- Fair use vs. tokenized training data
+1. AI is a machin learning model, not a machine
+2. Use AI to empower, assist, and inspire you
+3. AI can and will make mistakes
+4. Critically evaluate responses
+5. [Stay tuned] as GenAI evolves
 
 [comment]: # (!!!)
 
@@ -144,15 +145,78 @@ Note:
 
 [comment]: # (|||)
 
-巨量資料
+## Big Data 巨量資料
 
-## Big Data
+[大數據到底是什麼意思？事實上，它是一種精神！（2017.06）](https://www.inside.com.tw/feature/ai/9745-big-data) <!-- .slide: style="float: left; width: 50%; font-size: 0.7em"> -->
+
+3V (or more)
+1. Volume 資料量
+2. Variety 資料類型（多樣性）
+3. Velocity 資料資料傳輸速度（即時性）
+
+[comment]: # (||| data-background-image="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/s5O6MeY1DdTmv8ScfWs52M3jgLMxouJ3EYVilu5z.png" data-background-size="45% auto" data-background-position="right")
+
+## Information Security 資訊安全
+
+資通安全 @ 資通安全管理法 §3 (3)
+
+> 資通安全：指防止資通系統或資訊遭受未經授權之存取、使用、控制、洩漏、破壞、竄改、銷毀或其他侵害，以確保其機密性、完整性及可用性。
 
 [comment]: # (|||)
 
-資訊安全
+### 資安鐵三角 CIA Triad
 
-## Information Security
+[什麼是資訊安全？](https://www.cloudflare.com/zh-tw/learning/security/what-is-information-security/) <!-- .slide: style="font-size: 0.85em"> -->
+
+1. Confidentiality 機密性：指資料的隱私性，其目標是保護敏感和機密資訊免遭未經授權的存取。一些相關工具包括加密、存取控制和資料丟失預防。
+2. Integrity 完整性：指資訊的準確性和可靠性，旨在防止未經授權的篡改或修改。檔案權限、身分管理和稽核追蹤等工具有助於確保資料的完整性。
+3. Availability 可用性：確保資訊系統可用且可存取，避免代價高昂的停機或中斷。有助於確保資料可用性的一些保護措施包括系統更新、災難復原方案和業務連續性方案。
+
+[comment]: # (|||)
+
+### 資訊風險
+
+[資安的四個迷思及唯一解法（2023.05）](https://buttondown.com/tech_management_mindset/archive/zi-an-de-si-ge-mi-si-ji-wei-yi-jie-fa/)
+
+1. 改不動：不可被更動。
+2. 看不懂：無法直接被人類看懂或理解。
+3. 帶不走：不能被複製。
+
+[comment]: # (|||)
+
+### 攻擊手段（例）
+
+* DDoS
+* 可疑連結
+  * 社群網站
+  * LINE
+  * Email
+  * 短網址
+* 不安全的免費 WiFi
+* 社交工程 Social engineering
+
+[comment]: # (|||)
+
+### 保護手段（例）
+
+<!-- .slide: style="font-size: 0.9em"> -->
+- Security update 安全性更新
+- Minimum disclosure 最小揭露
+- Separate data set 區分資料集
+- Change password 定期更換密碼
+- Strong password 強度較高、不易破解的密碼（❔）
+- MFA 多步驟認證
+- Network restriction: VPN, firewall, WAF 網路限制
+- Encryption 加密
+- Backup 定期備份
+
+[comment]: # (|||)
+
+## AI Triangle AI三本柱
+
+![h:50%](https://miro.medium.com/v2/resize:fit:786/format:webp/1*_9cez7-2OwbRVJlFp5bVnQ.png)
+
+[Three Reasons Why Now Is The Time For AI (2018.06)](https://medium.com/analytics-matters/three-reasons-why-now-is-the-time-for-artificial-intelligence-4299b8d7efc7) <!-- .element: style="font-size: 0.5em"> -->
 
 [comment]: # (!!!)
 
@@ -162,7 +226,7 @@ Note:
 
 [comment]: # (|||)
 
-## Right
+## Right 權利
 
 * def
 * example
@@ -171,11 +235,9 @@ Note:
 
 ### 民法 §195
 
-```
-I. 不法侵害他人之身體、健康、名譽、自由、信用、隱私、貞操，或不法侵害其他人格法益而情節重大者，被害人雖非財產上之損害，亦得請求賠償相當之金額。其名譽被侵害者，並得請求回復名譽之適當處分。
-II. 前項請求權，不得讓與或繼承。但以金額賠償之請求權已依契約承諾，或已起訴者，不在此限。
-III. 前二項規定，於不法侵害他人基於父、母、子、女或配偶關係之身分法益而情節重大者，準用之。
-```
+> I. 不法侵害他人之身體、健康、名譽、自由、信用、隱私、貞操，或不法侵害其他人格法益而情節重大者，被害人雖非財產上之損害，亦得請求賠償相當之金額。其名譽被侵害者，並得請求回復名譽之適當處分。
+> II. 前項請求權，不得讓與或繼承。但以金額賠償之請求權已依契約承諾，或已起訴者，不在此限。
+> III. 前二項規定，於不法侵害他人基於父、母、子、女或配偶關係之身分法益而情節重大者，準用之。
 
 [comment]: # (|||)
 
