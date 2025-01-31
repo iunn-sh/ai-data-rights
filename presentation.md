@@ -255,8 +255,6 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 
 [comment]: # (||| data-background-image="https://images.unsplash.com/photo-1688447782584-c78336f2c9c2" data-background-opacity="0.5")
 
-[comment]: # (|||)
-
 ## Right 權利
 
 vs. Power 權力
