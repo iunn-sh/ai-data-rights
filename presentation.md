@@ -60,6 +60,23 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 
 [comment]: # (||| data-background-image="https://miro.medium.com/v2/resize:fit:786/format:webp/1*cFPZMybA6mQfyrfvOjeifQ.png" data-background-size="45% auto" data-background-position="right")
 
+## AI Intro 入門課
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/JKLdpfdhRnc" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
+
+<small>[AI 是什麼？｜你的第一堂 AI 課](https://youtu.be/JKLdpfdhRnc) 2024.03</small>
+
+[comment]: # (|||)
+
 ## Brief Histroy 歷史小教室
 
 [The History of AI: A Timeline of AI](https://www.coursera.org/articles/history-of-ai) 2024.10 <!-- .slide: style="font-size: 0.85em"> -->
@@ -211,7 +228,24 @@ Note:
 
 [comment]: # (|||)
 
-### 攻擊手段（例）
+### Baby Steps 一步一步來
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/bUY7DGaukTw" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
+
+<small>[資訊安全月影片: Do Your Part Be Cyber Smart](https://youtu.be/bUY7DGaukTw) 2022.10</small>
+
+[comment]: # (|||)
+
+### Attack 攻擊手段（例）
 
 * DDoS
 * 可疑連結
@@ -224,7 +258,7 @@ Note:
 
 [comment]: # (|||)
 
-### 保護手段（例）
+### Defense 保護手段（例）
 
 - Security update 安全性更新
 - Minimum disclosure 最小揭露
@@ -258,6 +292,10 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 ## Right 權利
 
 vs. Power 權力
+
+[comment]: # (|||)
+
+### My Rights? 我有哪些權利？
 
 [comment]: # (|||)
 
@@ -321,7 +359,7 @@ vs. Power 權力
 
 [comment]: # (|||)
 
-## PRISM 稜鏡計畫
+### PRISM 稜鏡計畫
 
 <iframe 
   width="560" 
@@ -340,7 +378,7 @@ vs. Power 權力
 
 [comment]: # (|||)
 
-## Cambridge Analytica 劍橋分析
+### Cambridge Analytica 劍橋分析
 
 [《個資風暴：劍橋分析事件》數據是強大的武器，能改變對世界的認知](https://www.inside.com.tw/feature/documentary-and-digital-world/23967-the-great-hack-review) 2021.06
 
@@ -352,17 +390,21 @@ vs. Power 權力
 
 # AI . Data . Rights
 
-生成式人工智慧時代中，生而為人的資料生產者角色、隱私保護與權利變遷
+生成式人工智慧時代中，<br>生而為人的資料生產者角色、隱私保護與權利變遷
+
+[comment]: # (||| data-background-image="https://images.unsplash.com/photo-1492045379936-abb525f8dacb" data-background-opacity="0.5")
+
+## Takeaway 精華
 
 - 重要的事情不能假手他人
 - 什麼是不能讓步的最後底線
-	- Be aware of confidential info
+	- Be aware of confidential information
 	- Read the contract, pay for privacy
 
 Note:
 Photo by [Warren](https://unsplash.com/@wflwong) on [Unsplash](https://unsplash.com/photos/person-using-phone-leaning-on-wall-in-silhouette-photography-4l-e7U6c5ek)
 
-[comment]: # (||| data-background-image="https://images.unsplash.com/photo-1492045379936-abb525f8dacb" data-background-opacity="0.5")
+[comment]: # (|||)
 
 <!-- .slide: style="font-size: 0.8em"> -->
 
