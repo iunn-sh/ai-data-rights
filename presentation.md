@@ -33,8 +33,10 @@ Photo by [Christopher Burns](https://unsplash.com/@christopher__burns) on [Unspl
 2. Data (Protection) 資料（保護）
 3. Fundamental Rights （基本）權利
 
-[comment]: # (A comment starting with three or more !!! marks a slide break.)
-[comment]: # (!!!)
+Note:
+Photo by [Aron Visuals](https://unsplash.com/@aronvisuals) on [Unsplash](https://unsplash.com/photos/light-decorations-in-dark-area-bZZp1PmHI0E)
+
+[comment]: # (!!! data-background-image="https://images.unsplash.com/photo-1510906594845-bc082582c8cc" data-background-opacity="0.5")
 
 人工智慧
 
@@ -54,7 +56,7 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 - Deep Learning (DL) 深度學習 <!-- .element: class="fragment" -->
 - Generative AI (GenAI) 生成式AI <!-- .element: class="fragment" -->
 - Large Language Model (LLM) 大型語言模型 <!-- .element: class="fragment" -->
-- Natural Language Processing (NLP) 自然語言處理 <!-- .element: class="fragment" -->
+- Natural Language Processing (NLP) 自然語言處理 💬 <!-- .element: class="fragment" -->
 
 [comment]: # (||| data-background-image="https://miro.medium.com/v2/resize:fit:786/format:webp/1*cFPZMybA6mQfyrfvOjeifQ.png" data-background-size="45% auto" data-background-position="right")
 
@@ -156,7 +158,7 @@ Text to video
 2. Use AI to empower, assist, and inspire you <!-- .element: class="fragment" -->
 3. AI can and will make mistakes <!-- .element: class="fragment" -->
 4. Critically evaluate responses <!-- .element: class="fragment" -->
-5. [Stay tuned] as GenAI evolves <!-- .element: class="fragment" -->
+5. [Stay tuned] as GenAI evolves 🆙 <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
@@ -173,8 +175,8 @@ Text to video
 (Why) is GenAI the breaking change?
 
 - Killer application: influence and potential profitability <!-- .element: class="fragment" -->
-- Permission for human to view vs. for robot to crawl <!-- .element: class="fragment" -->
-- Fair use vs. tokenized training data <!-- .element: class="fragment" -->
+- Permission for human to view != for robot to crawl <!-- .element: class="fragment" -->
+- Fair use 🆚 tokenized training data <!-- .element: class="fragment" -->
 
 [comment]: # (!!!)
 
@@ -187,7 +189,7 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 
 [comment]: # (||| data-background-image="https://images.unsplash.com/photo-1655720410101-c5cc15b1faf0" data-background-opacity="0.5")
 
-## Data
+## Data 資料
 
 [Data is the new air](https://www.csoonline.com/article/565480/data-is-the-new-air.html) 2018.05
 
@@ -228,7 +230,7 @@ Note:
 
 [comment]: # (|||)
 
-### 資訊風險
+### Security Risk 資安風險
 
 [資安的四個迷思及唯一解法](https://buttondown.com/tech_management_mindset/archive/zi-an-de-si-ge-mi-si-ji-wei-yi-jie-fa/) 2023.05
 
@@ -260,7 +262,7 @@ Note:
 * DDoS <!-- .element: class="fragment" -->
 * 可疑連結：社群網站／LINE／Email／短網址 <!-- .element: class="fragment" -->
 * 不安全的免費 WiFi <!-- .element: class="fragment" -->
-* 社交工程 Social engineering <!-- .element: class="fragment" -->
+* 社交工程 Social engineering 🪝 <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
@@ -274,7 +276,7 @@ Note:
 - MFA 多步驟認證 <!-- .element: class="fragment" -->
 - Network restriction: VPN, firewall, WAF 網路限制 <!-- .element: class="fragment" -->
 - Encryption 加密 <!-- .element: class="fragment" -->
-- Backup 定期備份 <!-- .element: class="fragment" -->
+- Backup 定期備份 🗄️ <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
@@ -318,7 +320,7 @@ Photo by [ROBIN WORRALL](https://unsplash.com/@robin_rednine) on [Unsplash](http
 - 隱私 <!-- .element: class="fragment" -->
 - 貞操 <!-- .element: class="fragment" -->
 - 身分法益 <!-- .element: class="fragment" -->
-- 其他人格法益 <!-- .element: class="fragment" -->
+- 其他人格法益 🫵 <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
@@ -329,7 +331,7 @@ Photo by [ROBIN WORRALL](https://unsplash.com/@robin_rednine) on [Unsplash](http
 - 自由 <!-- .element: class="fragment" -->
 - 名譽／信用 <!-- .element: class="fragment" -->
 - 隱私／祕密 <!-- .element: class="fragment" -->
-- 財產 <!-- .element: class="fragment" -->
+- 財產 💰 <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
@@ -344,7 +346,7 @@ Photo by [ROBIN WORRALL](https://unsplash.com/@robin_rednine) on [Unsplash](http
 
 ### 釋字 603（身分證按指紋案）
 
-[戶籍法第8條第2、3項捺指紋始核發身分證規定違憲？](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310784&rn=2132) 2005.09 📃
+[戶籍法第8條第2、3項捺指紋始核發身分證規定違憲？](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310784&rn=2132) 2005.09 📃 <!-- .element: style="font-size: 0.9em"> -->
 
 > 1️⃣ 維護人性尊嚴與尊重人格自由發展，乃自由民主憲政秩序之核心價值。隱私權雖非憲法明文列舉之權利，惟基於人性尊嚴與個人主體性之維護及人格發展之完整，並為保障個人生活私密領域免於他人侵擾及個人資料之自主控制，隱私權乃為不可或缺之基本權利，而受憲法第22條所保障（本院釋字第585號解釋參照）。其中就個人自主控制個人資料之資訊隱私權而言，乃保障人民決定是否揭露其個人資料、及在何種範圍內、於何時、以何種方式、向何人揭露之決定權，並保障人民對其個人資料之使用有知悉與控制權及資料記載錯誤之更正權。惟憲法對資訊隱私權之保障並非絕對，國家得於符合憲法第23條規定意旨之範圍內，以法律明確規定對之予以適當之限制。 <!-- .element: style="font-size: 0.7em"> -->
 
@@ -406,7 +408,7 @@ Photo by [Warren](https://unsplash.com/@wflwong) on [Unsplash](https://unsplash.
 - 什麼是不能讓步的最後底線 <!-- .element: class="fragment" -->
 	- Be aware of confidential information 機密資訊 <!-- .element: class="fragment" -->
 	- Read the contract 契約要看 <!-- .element: class="fragment" -->
-  - Pay for privacy 隱私有價 <!-- .element: class="fragment" -->
+  - Pay for privacy 隱私有價 🔒 <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
@@ -446,4 +448,7 @@ Criticism 批判
 | Reveal.js | [da_doomer/markdown-slides](https://gitlab.com/da_doomer/markdown-slides)				| 
 | Image 	| [Unsplash](https://unsplash.com)														| 
 
-[comment]: # (!!!)
+Note:
+Photo by [Guy Yama](https://unsplash.com/@guyyama) on [Unsplash](https://unsplash.com/photos/a-light-in-the-dark-SiWc3UnEFoc)
+
+[comment]: # (!!! data-background-image="https://images.unsplash.com/photo-1655781205373-9eb238c76d59" data-background-opacity="0.5")
