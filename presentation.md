@@ -164,7 +164,7 @@ Text to video
 
 ### Forum feat. GenAI 論壇與生成式AI
 
-[Stack Exchange測試AI回答機制，社群憂影響知識品質](https://www.ithome.com.tw/news/167243) 2025.02
+[Stack Exchange測試AI回答機制，社群憂影響知識品質](https://www.ithome.com.tw/news/167243) 2025.02 <!-- .element: style="font-size: 0.9em"> -->
 
 > Stack Exchange啟動了一項Answer Assistant實驗，測試由人工智慧生成的回答是否能通過社群審核機制，成為公開的內容。然而，此舉在社群內部引發廣泛討論與爭議，部分用戶擔憂人工智慧內容可能影響平臺的知識品質，甚至改變Stack Exchange作為人類策畫知識庫的核心價值。對於Stack Exchange來說，這項實驗目的在於探索人工智慧技術，如何在維持人類維護的前提下，輔助使用者獲得解答，但目前的實施方式已讓不少資深貢獻者感到不安，擔憂這是否會削弱專家參與的動機。 <!-- .element: style="font-size: 0.8em"> -->
 
@@ -346,7 +346,7 @@ Photo by [ROBIN WORRALL](https://unsplash.com/@robin_rednine) on [Unsplash](http
 
 ### 釋字 603（身分證按指紋案）
 
-[戶籍法第8條第2、3項捺指紋始核發身分證規定違憲？](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310784&rn=2132) 2005.09 📃 <!-- .element: style="font-size: 0.9em"> -->
+[戶籍法第8條第2、3項捺指紋始核發身分證規定違憲？](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310784&rn=2132) 2005.09 <!-- .element: style="font-size: 0.9em"> -->
 
 > 1️⃣ 維護人性尊嚴與尊重人格自由發展，乃自由民主憲政秩序之核心價值。隱私權雖非憲法明文列舉之權利，惟基於人性尊嚴與個人主體性之維護及人格發展之完整，並為保障個人生活私密領域免於他人侵擾及個人資料之自主控制，隱私權乃為不可或缺之基本權利，而受憲法第22條所保障（本院釋字第585號解釋參照）。其中就個人自主控制個人資料之資訊隱私權而言，乃保障人民決定是否揭露其個人資料、及在何種範圍內、於何時、以何種方式、向何人揭露之決定權，並保障人民對其個人資料之使用有知悉與控制權及資料記載錯誤之更正權。惟憲法對資訊隱私權之保障並非絕對，國家得於符合憲法第23條規定意旨之範圍內，以法律明確規定對之予以適當之限制。 <!-- .element: style="font-size: 0.7em"> -->
 
