@@ -51,12 +51,12 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 
 [Introduction to AI, ML, DL, Generative AI and NLP and the relationship between them (with a focus on GenAI)](https://medium.com/@amitadhiman3001/introduction-to-ai-ml-dl-generative-ai-and-nlp-and-the-relationship-between-them-with-a-focus-c21ff10bbfad) 2024.03 <!-- .slide: style="float: left; width: 50%; font-size: 0.7em"> -->
 
-- AI 人工智慧
-- Machine Learning (ML) 機器學習
-- Deep Learning (DL) 深度學習
-- Generative AI (GenAI) 生成式AI
-- Large Language Model (LLM) 大型語言模型
-- Natural Language Processing (NLP) 自然語言處理
+- AI 人工智慧 <!-- .element: class="fragment" -->
+- Machine Learning (ML) 機器學習 <!-- .element: class="fragment" -->
+- Deep Learning (DL) 深度學習 <!-- .element: class="fragment" -->
+- Generative AI (GenAI) 生成式AI <!-- .element: class="fragment" -->
+- Large Language Model (LLM) 大型語言模型 <!-- .element: class="fragment" -->
+- Natural Language Processing (NLP) 自然語言處理 <!-- .element: class="fragment" -->
 
 [comment]: # (||| data-background-image="https://miro.medium.com/v2/resize:fit:786/format:webp/1*cFPZMybA6mQfyrfvOjeifQ.png" data-background-size="45% auto" data-background-position="right")
 
@@ -77,7 +77,7 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 
 [comment]: # (|||)
 
-## Brief Histroy 歷史小教室
+### Brief Histroy 歷史小教室
 
 [The History of AI: A Timeline of AI](https://www.coursera.org/articles/history-of-ai) 2024.10 <!-- .slide: style="font-size: 0.85em"> -->
 
@@ -92,9 +92,9 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 
 [comment]: # (|||)
 
-## ML 101 機器學習概論
+### ML 101 機器學習概論
 
-[What Are Machine Learning Frameworks and How to Pick the Best One](https://www.phdata.io/blog/how-to-pick-the-best-ml-framework/) 2021.08 <!-- .slide: style="float: left; width: 50%; font-size: 0.7em"> -->
+[What Are Machine Learning Frameworks and How to Pick the Best One](https://www.phdata.io/blog/how-to-pick-the-best-ml-framework/) 2021.08 <!-- .slide: style="float: left; width: 50%; font-size: 0.8em"> -->
 
 1. Train 訓練
 2. Evaluate 評估
@@ -106,17 +106,20 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 
 ![h:50%](https://learnopencv.com/wp-content/uploads/2020/10/gen_disc_model-1.jpg)
 
-<small>[Generative and Discriminative Models](https://learnopencv.com/generative-and-discriminative-models/)<small>
+<small>[Generative and Discriminative Models](https://learnopencv.com/generative-and-discriminative-models/) 2021.05<small>
 
 [comment]: # (|||)
 
 ### [ChatGPT](https://chatgpt.com/) / [Claude](https://claude.ai) / [Llama](https://www.llama.com) / [Gemini](https://gemini.google.com/)
 
-Text
+Text <!-- .slide: style="float: left; width: 60%"> -->
 
 [Duck.ai](https://duck.ai)
 
-[comment]: # (|||)
+Note:
+Photo by [Sundar Raj Selvanathan](https://unsplash.com/@sundarrajs) on [Unsplash](https://unsplash.com/photos/white-duck-in-water-during-daytime-n_68kGRYqfM)
+
+[comment]: # (||| data-background-image="https://images.unsplash.com/photo-1602762144952-b9bb54766a21" data-background-opacity="0.8")
 
 ### [Stable Diffusion](https://stablediffusionweb.com) / [Midjourney](https://www.midjourney.com)
 
@@ -151,20 +154,21 @@ Text to video
 
 [Watch this before using generative AI (2023.11)](https://youtu.be/unPKJJjQP0A)
 
-1. AI is a machin learning model, not a machine
-2. Use AI to empower, assist, and inspire you
-3. AI can and will make mistakes
-4. Critically evaluate responses
-5. [Stay tuned] as GenAI evolves
+1. AI is a machin learning model, not a machine <!-- .element: class="fragment" -->
+2. Use AI to empower, assist, and inspire you <!-- .element: class="fragment" -->
+3. AI can and will make mistakes <!-- .element: class="fragment" -->
+4. Critically evaluate responses <!-- .element: class="fragment" -->
+5. [Stay tuned] as GenAI evolves <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
 ## Apocalypse 末日危機感
 
 (Why) is GenAI the breaking change?
-- Killer application: influence and potential profitability
-- Permission for human to view vs. for robot to crawl
-- Fair use vs. tokenized training data
+
+- Killer application: influence and potential profitability <!-- .element: class="fragment" -->
+- Permission for human to view vs. for robot to crawl <!-- .element: class="fragment" -->
+- Fair use vs. tokenized training data <!-- .element: class="fragment" -->
 
 [comment]: # (!!!)
 
@@ -189,9 +193,9 @@ Note:
 
 [comment]: # (|||)
 
-## Big Data 巨量資料
+### Big Data 巨量資料
 
-[大數據到底是什麼意思？事實上，它是一種精神！](https://www.inside.com.tw/feature/ai/9745-big-data) 2017.06 <!-- .slide: style="float: left; width: 50%; font-size: 0.75em"> -->
+[大數據到底是什麼意思？事實上，它是一種精神！](https://www.inside.com.tw/feature/ai/9745-big-data) 2017.06 <!-- .slide: style="float: left; width: 50%; font-size: 0.8em"> -->
 
 3V (or more)
 1. Volume 資料量
@@ -247,28 +251,24 @@ Note:
 
 ### Attack 攻擊手段（例）
 
-* DDoS
-* 可疑連結
-  * 社群網站
-  * LINE
-  * Email
-  * 短網址
-* 不安全的免費 WiFi
-* 社交工程 Social engineering
+* DDoS <!-- .element: class="fragment" -->
+* 可疑連結：社群網站／LINE／Email／短網址 <!-- .element: class="fragment" -->
+* 不安全的免費 WiFi <!-- .element: class="fragment" -->
+* 社交工程 Social engineering <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
 ### Defense 保護手段（例）
 
-- Security update 安全性更新
-- Minimum disclosure 最小揭露
-- Separate data set 區分資料集
-- Change password 定期更換密碼
-- Strong password 強度較高、不易破解的密碼（❔）
-- MFA 多步驟認證
-- Network restriction: VPN, firewall, WAF 網路限制
-- Encryption 加密
-- Backup 定期備份
+- Security update 安全性更新 <!-- .element: class="fragment" -->
+- Minimum disclosure 最小揭露 <!-- .element: class="fragment" -->
+- Separate data set 區分資料集 <!-- .element: class="fragment" -->
+- Change password 定期更換密碼 <!-- .element: class="fragment" -->
+- Strong password? 強度較高、不易破解的密碼？ <!-- .element: class="fragment" -->
+- MFA 多步驟認證 <!-- .element: class="fragment" -->
+- Network restriction: VPN, firewall, WAF 網路限制 <!-- .element: class="fragment" -->
+- Encryption 加密 <!-- .element: class="fragment" -->
+- Backup 定期備份 <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
@@ -295,53 +295,50 @@ vs. Power 權力
 
 [comment]: # (|||)
 
-### My Rights? 我有哪些權利？
+### My Rights? 我的權利？
 
-[comment]: # (|||)
+Note:
+Photo by [ROBIN WORRALL](https://unsplash.com/@robin_rednine) on [Unsplash](https://unsplash.com/photos/yellow-road-sign-sdGcAhK7o2Q)
+      
+[comment]: # (||| data-background-image="https://images.unsplash.com/photo-1530024830883-dc2e8ebb3bb0" data-background-opacity="0.8")
 
 ### 民法 §195
 
-- 身體
-- 健康
-- 名譽
-- 自由
-- 信用
-- 隱私
-- 貞操
-- 身分法益
-- 其他人格法益
+- 身體 <!-- .element: class="fragment" -->
+- 健康 <!-- .element: class="fragment" -->
+- 名譽 <!-- .element: class="fragment" -->
+- 自由 <!-- .element: class="fragment" -->
+- 信用 <!-- .element: class="fragment" -->
+- 隱私 <!-- .element: class="fragment" -->
+- 貞操 <!-- .element: class="fragment" -->
+- 身分法益 <!-- .element: class="fragment" -->
+- 其他人格法益 <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
 ### 刑法
 
-- 生命
-- 身體
-- 自由
-- 名譽/信用
-- 隱私/祕密
-- 財產
+- 生命 <!-- .element: class="fragment" -->
+- 身體 <!-- .element: class="fragment" -->
+- 自由 <!-- .element: class="fragment" -->
+- 名譽／信用 <!-- .element: class="fragment" -->
+- 隱私／祕密 <!-- .element: class="fragment" -->
+- 財產 <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
 ### 憲法 §7 ~ §22
 
-- 平等權
-- 自由權：人身自由、居住遷徙自由、表意自由、秘密通訊自由、信仰自由、集會結社自由
-- 受益權：經濟上受益權、行政上受益權、司法上受益權、教育上受益權
-- 其他權利
-
-[comment]: # (|||)
-
-## Privacy 隱私
-
-其他權利 ✅
+- 平等權 <!-- .element: class="fragment" -->
+- 自由權：人身／居住遷徙／表意／秘密通訊／信仰／集會結社 <!-- .element: class="fragment" -->
+- 受益權：經濟／行政／司法／教育 <!-- .element: class="fragment" -->
+- 其他權利：隱私 ✅ <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
 ### 釋字 603（身分證按指紋案）
 
-[戶籍法第8條第2、3項捺指紋始核發身分證規定違憲？](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310784&rn=2132) 2005.09
+[戶籍法第8條第2、3項捺指紋始核發身分證規定違憲？](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310784&rn=2132) 2005.09 📃
 
 > 1️⃣ 維護人性尊嚴與尊重人格自由發展，乃自由民主憲政秩序之核心價值。隱私權雖非憲法明文列舉之權利，惟基於人性尊嚴與個人主體性之維護及人格發展之完整，並為保障個人生活私密領域免於他人侵擾及個人資料之自主控制，隱私權乃為不可或缺之基本權利，而受憲法第22條所保障（本院釋字第585號解釋參照）。其中就個人自主控制個人資料之資訊隱私權而言，乃保障人民決定是否揭露其個人資料、及在何種範圍內、於何時、以何種方式、向何人揭露之決定權，並保障人民對其個人資料之使用有知悉與控制權及資料記載錯誤之更正權。惟憲法對資訊隱私權之保障並非絕對，國家得於符合憲法第23條規定意旨之範圍內，以法律明確規定對之予以適當之限制。 <!-- .element: style="font-size: 0.7em"> -->
 
@@ -392,17 +389,18 @@ vs. Power 權力
 
 生成式人工智慧時代中，<br>生而為人的資料生產者角色、隱私保護與權利變遷
 
+Note:
+Photo by [Warren](https://unsplash.com/@wflwong) on [Unsplash](https://unsplash.com/photos/person-using-phone-leaning-on-wall-in-silhouette-photography-4l-e7U6c5ek)
+
 [comment]: # (||| data-background-image="https://images.unsplash.com/photo-1492045379936-abb525f8dacb" data-background-opacity="0.5")
 
 ## Takeaway 精華
 
-- 重要的事情不能假手他人
-- 什麼是不能讓步的最後底線
-	- Be aware of confidential information
-	- Read the contract, pay for privacy
-
-Note:
-Photo by [Warren](https://unsplash.com/@wflwong) on [Unsplash](https://unsplash.com/photos/person-using-phone-leaning-on-wall-in-silhouette-photography-4l-e7U6c5ek)
+- 重要的事情不能假手他人 <!-- .element: class="fragment" -->
+- 什麼是不能讓步的最後底線 <!-- .element: class="fragment" -->
+	- Be aware of confidential information 機密資訊 <!-- .element: class="fragment" -->
+	- Read the contract 契約要看 <!-- .element: class="fragment" -->
+  - Pay for privacy 隱私有價 <!-- .element: class="fragment" -->
 
 [comment]: # (|||)
 
