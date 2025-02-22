@@ -45,8 +45,6 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 
 [comment]: # (||| data-background-image="https://images.unsplash.com/photo-1655721530791-59f5bbd64a48" data-background-opacity="0.5")
 
-名詞解釋
-
 ## Glossary 名詞解釋
 
 [Introduction to AI, ML, DL, Generative AI and NLP and the relationship between them (with a focus on GenAI)](https://medium.com/@amitadhiman3001/introduction-to-ai-ml-dl-generative-ai-and-nlp-and-the-relationship-between-them-with-a-focus-c21ff10bbfad) 2024.03 <!-- .slide: style="float: left; width: 50%; font-size: 0.7em"> -->
