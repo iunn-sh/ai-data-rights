@@ -36,7 +36,18 @@ Photo by [Christopher Burns](https://unsplash.com/@christopher__burns) on [Unspl
 Note:
 Photo by [Aron Visuals](https://unsplash.com/@aronvisuals) on [Unsplash](https://unsplash.com/photos/light-decorations-in-dark-area-bZZp1PmHI0E)
 
-[comment]: # (!!! data-background-image="https://images.unsplash.com/photo-1510906594845-bc082582c8cc" data-background-opacity="0.5")
+[comment]: # (||| data-background-image="https://images.unsplash.com/photo-1510906594845-bc082582c8cc" data-background-opacity="0.5")
+
+### Expectation Check 開始之前
+
+- 主題：聯想到的關鍵字 <!-- .element: class="fragment" -->
+- 許願：對什麼面向有興趣 <!-- .element: class="fragment" -->
+- 目標：希望結束時帶走什麼 🔰 <!-- .element: class="fragment" -->
+
+Note:
+Image by [Brands&People](https://unsplash.com/@brandsandpeople) via [Unsplash](https://unsplash.com/photos/white-green-and-orange-box-RPPdQVp-nds)
+      
+[comment]: # (!!! data-background-image="https://images.unsplash.com/photo-1618255339659-0084b31196b9" data-background-opacity="0.5")
 
 人工智慧
 
@@ -212,11 +223,11 @@ Note:
 
 [comment]: # (||| data-background-image="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/s5O6MeY1DdTmv8ScfWs52M3jgLMxouJ3EYVilu5z.png" data-background-size="45% auto" data-background-position="right")
 
-## Information Security 資訊安全
+## Info Security 資訊安全
 
 資通安全 @ 資通安全管理法 §3 (3)
 
-> 資通安全：指防止資通系統或資訊遭受未經授權之存取、使用、控制、洩漏、破壞、竄改、銷毀或其他侵害，以確保其機密性、完整性及可用性。
+> 指防止資通系統或資訊遭受<mark>未經授權</mark>之存取、使用、控制、洩漏、破壞、竄改、銷毀或其他侵害，以確保其<mark>機密性</mark>、<mark>完整性</mark>及<mark>可用性</mark>。
 
 [comment]: # (|||)
 
@@ -297,18 +308,31 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 
 [comment]: # (||| data-background-image="https://images.unsplash.com/photo-1688447782584-c78336f2c9c2" data-background-opacity="0.5")
 
-## Right 權利
+## Right 權利 (Khuân-lī)
 
-vs. Power 權力
+vs. Power 權力 (Khuân-li̍k)
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/NOkhCC6mWlM" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen>
+</iframe>
+
+<small>[關鍵詞：權力power/權利right/權益benefit](https://youtu.be/bUY7DGaukTw) 2023.10</small>
 
 [comment]: # (|||)
 
 ### My Rights? 我的權利？
 
 Note:
-Photo by [ROBIN WORRALL](https://unsplash.com/@robin_rednine) on [Unsplash](https://unsplash.com/photos/yellow-road-sign-sdGcAhK7o2Q)
+Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https://unsplash.com/photos/yellow-sticky-notes-ElF7K4IWcGQ)
       
-[comment]: # (||| data-background-image="https://images.unsplash.com/photo-1530024830883-dc2e8ebb3bb0" data-background-opacity="0.8")
+[comment]: # (||| data-background-image="https://images.unsplash.com/photo-1553044707-b710ee53ffbd" data-background-opacity="0.8")
 
 ### 民法 §195
 
