@@ -334,7 +334,23 @@ Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https
       
 [comment]: # (||| data-background-image="https://images.unsplash.com/photo-1553044707-b710ee53ffbd" data-background-opacity="0.8")
 
-### 民法 §195
+### Job Seeking 求職
+
+[禁止用AI求職！亞馬遜、Anthropic 的「雙標」政策掀爭議](https://meet.bnext.com.tw/articles/view/52129) 2025.03
+
+> 亞馬遜和Anthropic這兩家科技巨頭近期都明確表示，不允許求職者在面試和履歷撰寫過程中使用生成式AI工具。這種「AI可以用來提升工作效率，但不該用於求職」的矛盾態度，引發了科技業與求職市場的熱烈討論。
+
+[comment]: # (|||)
+
+### Court 法院
+
+[當AI科技應用於司法審判——以量刑預測、民刑事見解資料庫及家事親權案件調解為例](https://ai.iias.sinica.edu.tw/when-ai-is-used-in-judicial-adjudication-minutes/) 2024.09
+
+> 人工智慧最大的不同在於它可以進行機器學習，同一個輸入一定只有一個結果，即使不同的輸入，若沒有自相矛盾即不是錯誤的，矛盾則是同樣一個條件輸入跑出兩個不同結果；以親權判決書為例，「input」是案件的事實或法條，結果最粗略可分為三類：孩子判給「爸爸」、「媽媽」或是「雙方」；換言之，函數關係代表：假設存在完全類似的判決，那麼法官應該要判一樣的結果，完全一樣的判決，然而不同的法官（或者是同一個法官）先後判的結果不一樣人們則會覺得司法不公。 <!-- .element: style="font-size: 0.8em"> -->
+
+[comment]: # (|||)
+
+## 民法 §195
 
 - 身體 <!-- .element: class="fragment" -->
 - 健康 <!-- .element: class="fragment" -->
@@ -348,7 +364,7 @@ Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https
 
 [comment]: # (|||)
 
-### 刑法
+## 刑法
 
 - 生命 <!-- .element: class="fragment" -->
 - 身體 <!-- .element: class="fragment" -->
@@ -359,7 +375,7 @@ Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema) on [Unsplash](https
 
 [comment]: # (|||)
 
-### 憲法 §7 ~ §22
+## 憲法 §7 ~ §22
 
 - 平等權 <!-- .element: class="fragment" -->
 - 自由權：人身／居住遷徙／表意／秘密通訊／信仰／集會結社 <!-- .element: class="fragment" -->
