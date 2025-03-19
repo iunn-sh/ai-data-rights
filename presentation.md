@@ -474,6 +474,7 @@ Photo by [Warren](https://unsplash.com/@wflwong) on [Unsplash](https://unsplash.
 
 Safe Use of (Gen)AI （生成式）AI安全使用建議
 
+- [金管會：金融業運用人工智慧指引](https://www.fsc.gov.tw/uploaddowndoc?file=news/202406201527520.pdf&filedisplay=%E9%99%84%E4%BB%B6_%E9%87%91%E8%9E%8D%E6%A5%AD%E9%81%8B%E7%94%A8AI%E6%8C%87%E5%BC%95.pdf&flag=doc) 2024.06
 - [OpenAI: Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html) 2024.05
 - [行政院及所屬機關（構）使用生成式AI參考指引](https://www.nstc.gov.tw/folksonomy/list/c79bf57b-dc94-4aff-8d14-3262b5559cfc) 2024.02
 - [新聞專業倫理｜中央社生成式AI應用指南](https://academy.cna.com.tw/NewsWorldCont/Index/20230831a001) 2023.09
