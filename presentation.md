@@ -58,6 +58,14 @@ Photo by [Google DeepMind](https://unsplash.com/@googledeepmind) on [Unsplash](h
 
 [comment]: # (||| data-background-image="https://images.unsplash.com/photo-1655721530791-59f5bbd64a48" data-background-opacity="0.5")
 
+#### AI / ML / DL
+
+![h:50%](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*gbpALjvkwADyTln2FN-Khg.png)
+
+<small>[生成對抗網路到底在GAN麻？](https://medium.com/@hiskio/%E7%94%9F%E6%88%90%E5%B0%8D%E6%8A%97%E7%B6%B2%E8%B7%AF%E5%88%B0%E5%BA%95%E5%9C%A8gan%E9%BA%BB-f149efb9eb6b) 2019.04</small>
+
+[comment]: # (|||)
+
 ## Glossary 名詞解釋
 
 [Introduction to AI, ML, DL, Generative AI and NLP and the relationship between them (with a focus on GenAI)](https://medium.com/@amitadhiman3001/introduction-to-ai-ml-dl-generative-ai-and-nlp-and-the-relationship-between-them-with-a-focus-c21ff10bbfad) 2024.03 <!-- .slide: style="float: left; width: 50%; font-size: 0.7em"> -->
