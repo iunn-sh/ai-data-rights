@@ -173,7 +173,7 @@ Text to video
 
 [Watch this before using generative AI](https://youtu.be/unPKJJjQP0A) 2023.11
 
-1. AI is a machin learning model, not a machine <!-- .element: class="fragment" -->
+1. AI is a machine learning model, not a machine <!-- .element: class="fragment" -->
 2. Use AI to empower, assist, and inspire you <!-- .element: class="fragment" -->
 3. AI can and will make mistakes <!-- .element: class="fragment" -->
 4. Critically evaluate responses <!-- .element: class="fragment" -->
@@ -226,8 +226,8 @@ Note:
 
 3V (or more)
 1. Volume 資料量
-2. Variety 資料類型（多樣性）
-3. Velocity 資料傳輸速度（即時性）
+2. Variety 資料類型（多樣）
+3. Velocity 資料傳輸速度（即時）
 
 [comment]: # (||| data-background-image="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/s5O6MeY1DdTmv8ScfWs52M3jgLMxouJ3EYVilu5z.png" data-background-size="45% auto" data-background-position="right")
 
