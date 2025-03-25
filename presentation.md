@@ -222,12 +222,12 @@ Note:
 
 ### Big Data 巨量資料
 
-[大數據到底是什麼意思？事實上，它是一種精神！](https://www.inside.com.tw/feature/ai/9745-big-data) 2017.06 <!-- .slide: style="float: left; width: 50%; font-size: 0.8em"> -->
+[大數據到底是什麼意思？事實上，它是一種精神！](https://www.inside.com.tw/feature/ai/9745-big-data) 2017.06 <!-- .slide: style="float: left; width: 50%; font-size: 0.85em"> -->
 
 3V (or more)
-1. Volume 資料量
-2. Variety 資料類型（多樣）
-3. Velocity 資料傳輸速度（即時）
+1. Volume 量
+2. Variety 類型（多樣）
+3. Velocity 傳輸速度（即時）
 
 [comment]: # (||| data-background-image="https://bucket-image.inkmaginecms.com/version/desktop/cabinet/files/consoles/1/teams/1/2022/10/s5O6MeY1DdTmv8ScfWs52M3jgLMxouJ3EYVilu5z.png" data-background-size="45% auto" data-background-position="right")
 
@@ -301,9 +301,26 @@ Note:
 
 ## AI Triangle AI三本柱
 
-![h:50%](https://miro.medium.com/v2/resize:fit:786/format:webp/1*_9cez7-2OwbRVJlFp5bVnQ.png)
+![h:50%](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*_9cez7-2OwbRVJlFp5bVnQ.png)
 
 <small>[Three Reasons Why Now Is The Time For AI](https://medium.com/analytics-matters/three-reasons-why-now-is-the-time-for-artificial-intelligence-4299b8d7efc7) 2018.06</small>
+
+[comment]: # (|||)
+
+### Web Crawler 網路爬蟲
+
+[Robots.txt](https://developer.mozilla.org/zh-TW/docs/Glossary/Robots.txt)
+
+> robots.txt是一個通常放置於網站根目錄的檔案（例如，`https://www.example.com/robots.txt`）。它用來指定爬蟲是否被允許或禁止訪問整個網站或網站上的某些資源。一個限制性的 robots.txt 檔案可以防止爬蟲消耗過多的頻寬。網站擁有者可以禁止爬蟲檢測某個路徑（以及該路徑中的所有檔案）或特定檔案。這通常用於防止這些資源被索引或被搜尋引擎提供服務。 <!-- .element: style="font-size: 0.9em"> -->
+
+[comment]: # (|||)
+
+### Open Data 開放資料
+
+[政府資料開放深化應用 數發部將推動建置臺灣主權AI訓練語料庫](https://moda.gov.tw/press/press-releases/15550) 2025.03
+
+> 數位發展部指出，隨著AI與資料科技的進步，政府資料開放已進入深化應用的關鍵階段。目前，各機關不僅提供高品質資料，也積極推動跨領域應用政府資料開放平臺已累積超過5萬筆資料集，涵蓋語言、歷史、地理、動植物、國家文化記憶庫等多元主題。未來，將優先推動政府機關釋出中文語料，包含施政計畫、施政報告、政府出版品等，確保臺灣的AI發展能夠具備本土語言與文化特色。 <!-- .element: style="font-size: 0.9em"> -->
+
 
 [comment]: # (!!!)
 
