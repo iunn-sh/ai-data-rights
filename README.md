@@ -1,5 +1,4 @@
-# ai-data-rights
-AI, Data, and Rights
+# AI, Data, and Rights
 
 * Reveal.js https://revealjs.com
 * da_doomer/markdown-slides https://gitlab.com/da_doomer/markdown-slides
